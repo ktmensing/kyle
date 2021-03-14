@@ -1,0 +1,9 @@
+/* Put your custom CSS rules here */
+.grid-container {
+  display: grid;
+  grid-auto-columns: 150px;
+}
+
+.post_list {
+  list-style-type: none;
+}
